@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PracticalA2B1.iml" filepath="$PROJECT_DIR$/.idea/PracticalA2B1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticalA2B2.iml" filepath="$PROJECT_DIR$/.idea/PracticalA2B2.iml" />
+>>>>>>> 53b1ecd (Batch 2 Program)
     </modules>
   </component>
 </project>

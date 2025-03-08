@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="21606c20-73c9-4b21-bc8f-bbb58efccee6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/PracticalA2B1.iml" afterDir="false" />
+=======
+    <list default="true" id="a3781a14-06af-4c71-9cf8-786edac4d493" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/PracticalA2B2.iml" afterDir="false" />
+>>>>>>> 53b1ecd (Batch 2 Program)
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/Batch1.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+>>>>>>> 53b1ecd (Batch 2 Program)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +28,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+<<<<<<< HEAD
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2trFyYw3Wag3VJGywf9I0QVdqh3" />
+=======
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2trGZ2jrSlZp9dIpKzgXb675MTc" />
+>>>>>>> 53b1ecd (Batch 2 Program)
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,12 +45,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Batch1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PracticalA2B1" />
+=======
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/63935/PycharmProjects/PythonProjects"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PracticalA2B2" />
+>>>>>>> 53b1ecd (Batch 2 Program)
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,7 +72,11 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="C:\Users\63935\PycharmProjects\PythonProjects\PracticalA2B1\Batch1.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+>>>>>>> 53b1ecd (Batch 2 Program)
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,6 +96,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="21606c20-73c9-4b21-bc8f-bbb58efccee6" name="Changes" comment="" />
       <created>1741102541597</created>
       <option name="number" value="Default" />
@@ -75,4 +105,25 @@
     </task>
     <servers />
   </component>
+=======
+      <changelist id="a3781a14-06af-4c71-9cf8-786edac4d493" name="Changes" comment="" />
+      <created>1741102831459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741102831459</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+>>>>>>> 53b1ecd (Batch 2 Program)
 </project>
